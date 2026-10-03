@@ -1,0 +1,23 @@
+// [id, label] — every id maps to a `.t-<id>` class in themes.css
+export const THEMES: [string, string][] = [
+  ['dark', 'Dark'], ['glass', 'Glass'], ['neu', 'Soft 3D'], ['brut', 'Bold blocks'], ['term', 'Terminal'],
+  ['pastel', 'Pastel'], ['neon', 'Neon'], ['forest', 'Forest'], ['sunset', 'Sunset'], ['ocean', 'Ocean'],
+  ['retro', 'Retro 90s'], ['coffee', 'Coffee'], ['candy', 'Candy'], ['midnight', 'Midnight gold'], ['mono', 'Mono'],
+  ['aurora', 'Aurora'], ['volcano', 'Volcano'], ['meow', 'Meow'], ['slate', 'Slate'], ['cherry', 'Cherry'],
+  ['sky', 'Sky'], ['vapor', 'Vapor'], ['blueprint', 'Blueprint'], ['chalk', 'Chalkboard'], ['lemon', 'Lemon'],
+  ['space', 'Space'], ['ember', 'Ember'], ['rosegold', 'Rose gold'], ['arctic', 'Arctic'], ['grape', 'Grape'],
+  ['toxic', 'Toxic'], ['pixel', 'Pixel'], ['contrast', 'High contrast'], ['holo', 'Holo'], ['tangerine', 'Tangerine'],
+  ['denim', 'Denim'], ['nordic', 'Nordic'], ['emerald', 'Emerald'], ['steel', 'Steel'], ['copper', 'Copper'],
+  ['lagoon', 'Lagoon'], ['plum', 'Plum'], ['olive', 'Olive'], ['berry', 'Berry'], ['graphite', 'Graphite'],
+  ['peach', 'Peach'], ['indigo', 'Indigo'], ['ruby', 'Ruby'], ['sapphire', 'Sapphire'], ['gameboy', 'Game Boy'],
+  ['amber', 'Amber CRT'], ['popsicle', 'Popsicle'], ['zen', 'Zen'], ['cyberpunk', 'Cyberpunk'], ['autumn', 'Autumn'],
+  ['glacier', 'Glacier'], ['bubblegum', 'Bubblegum'], ['wine', 'Wine'], ['coral', 'Coral'], ['dusk', 'Dusk'],
+  ['tidal', 'Tidal'], ['saffron', 'Saffron'], ['racing', 'Racing'], ['twilight', 'Twilight'], ['fuchsia', 'Fuchsia'],
+  ['nautical', 'Nautical'], ['lime', 'Lime'], ['orchid', 'Orchid'], ['turquoise', 'Turquoise'], ['storm', 'Storm'],
+  ['bauhaus', 'Bauhaus'], ['noir', 'Noir'], ['lava', 'Lava'], ['seaglass', 'Sea glass'], ['mystic', 'Mystic'],
+  ['electric', 'Electric'], ['peacock', 'Peacock'], ['ultraviolet', 'Ultraviolet'], ['brick', 'Brick'], ['rainbow', 'Rainbow'],
+  ['xp', 'Windows XP'], ['macos', 'Mac Classic'], ['aero', 'Frutiger Aero'], ['comic', 'Comic book'], ['notebook', 'Notebook'],
+  ['sticky', 'Sticky note'], ['receipt', 'Receipt'], ['synth', 'Synthwave'], ['dos', 'DOS blue'], ['c64', 'Commodore 64'],
+  ['web1', 'Web 1.0'], ['memphis', 'Memphis'], ['swiss', 'Swiss'], ['deco', 'Art Deco'], ['clay', 'Clay'],
+  ['hud', 'Sci-fi HUD'], ['doodle', 'Doodle'], ['wood', 'Wood'], ['zine', 'Zine'], ['leather', 'Leather'],
+]
